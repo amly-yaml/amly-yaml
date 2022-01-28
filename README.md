@@ -6,7 +6,7 @@
 - 📫 Connect with me: 
 
 <a href="https://www.linkedin.com/in/nang-ohn-shwe-kyi-a63556228/" target="_blank">
-<img align="left" src="https://www.flaticon.com/free-icon/linkedin_145807" height="100" /></a>
+<img align="left" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" height="100" /></a>
 
 <!---
 amly-yaml/amly-yaml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
