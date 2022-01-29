@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning on programming languages and Japanese Language. 
 - 🌱 I’m currently learning everything related to all full stack developer.
 - 🔭 I’m currently working on full stack project to sharp my skills.
-- 💞️ I’m looking to collaborate with content creators and 
+- 💞️ I’m looking to collaborate with content creators.
 
 <h4> 📫 Connect with me: </h4>
 <a href="https://www.linkedin.com/in/nang-ohn-shwe-kyi-a63556228/" target="_blank">
