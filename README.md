@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning on programming languages and Japanese Language. 
 - 🌱 I’m currently learning everything related to all full stack developer.
-- 🔭 I’m currently working on full stack project to imporve my sills.
+- 🔭 I’m currently working on full stack project to sharp my skills.
 - 💞️ I’m looking to collaborate with content creators and 
 
 <h4> 📫 Connect with me: </h4>
